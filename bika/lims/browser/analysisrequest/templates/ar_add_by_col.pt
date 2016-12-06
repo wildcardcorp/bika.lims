@@ -139,7 +139,6 @@
                     </td>
                 </tal:columns>
             </tr>
-
         </tfoot>
     </table>
 
